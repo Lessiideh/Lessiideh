@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lessiideh
+- 👋 Hi, I’m Lessi Ideh
 - 👀 I’m interested in data analytics and data science applications in bioinformatics. 
 - 🌱 I’m currently learning data analytics, presently undertaking the Google data analytics certificate program course amongst others
 - 💞️ I’m looking to collaborate on data analytics projects 

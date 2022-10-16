@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Lessi Ideh
+- 👋 Hi, I’m Blessing Ideh
 - 👀 I’m interested in data analytics and data science applications in bioinformatics. 
-- 🌱 I’m currently learning data analytics, presently undertaking the Google data analytics certificate program course amongst others
+- 🌱 I’m a data analyst and currently training to become a data scientist.
 - 💞️ I’m looking to collaborate on data analytics projects 
-- 📫 How to reach me... lessiideh@gmail.com 
+- 📫 You can connect with me @lessi_ie on twitter
 
 <!---
 Lessiideh/Lessiideh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
